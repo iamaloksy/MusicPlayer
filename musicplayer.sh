@@ -4,7 +4,7 @@
 # Version    : 1.0
 # Author     : iamaloksy
 # Github     : https://github.com/iamaloksy
-# Email      : kr.alok.syd@gmail.com
+# Email      : kr.alok.sy@gmail.com
 # Contact    : https://m.me/iamaloksy
 # Description: Terminal music player
 # 1st Commit : 27-01-2024
@@ -55,7 +55,7 @@ ${blue}| |\/| | | | / __| |_) | |/ _' | | | |/ _ \ '__|
 ${yellow}| |  | | |_| \__ \  __/| | (_| | |_| |  __/ |
 ${purple}|_|  |_|\__,_|___/_|   |_|\__,_|\__, |\___|_|
 ${cyan}                                |___/  [v${version}]
-${red}                               [By Alok Kumar]${nc}
+${red}                               [By iamaloksy]${nc}
 "
 
 
